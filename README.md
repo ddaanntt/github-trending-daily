@@ -1,6 +1,6 @@
 # GitHub Trending Daily
 
-📅 最新一期: [2026-05-29](content/2026-05-29.md)
+📅 最新一期: [2026-05-30](content/2026-05-30.md)
 
 每天自动抓取 GitHub Trending，筛选 10 个最值得关注的项目，生成中文分析报告。
 
