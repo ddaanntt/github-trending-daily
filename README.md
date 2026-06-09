@@ -4,10 +4,11 @@
 
 ## 最新一期
 
-**[2026-06-08](content/2026-06-08.md)** — turbovec、JoyAI-Echo、goose、skylight、tolaria、pg_durable、sandboxd、meatshell、guard-skills、project-nomad
+**[2026-06-09](content/2026-06-09.md)** — supervision、codegraph、RuView、google/skills、react-doctor、oh-my-pi、whichllm、harness、lottie、noop
 
 ## 历史期数
 
+- [2026-06-09](content/2026-06-09.md)
 - [2026-06-08](content/2026-06-08.md)
 
 ## 说明
