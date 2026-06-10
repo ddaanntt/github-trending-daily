@@ -4,7 +4,7 @@
 
 ## 最新一期
 
-**[2026-06-09](content/2026-06-09.md)** — supervision、codegraph、RuView、google/skills、react-doctor、oh-my-pi、whichllm、harness、lottie、noop
+**[2026-06-10](content/2026-06-10.md)** — agent-skills、openmed、espectre、impeccable、supermemory、Understand-Anything、baoyu-design、xiaoer-videolab、coreai-models、Neo3dEngine
 
 ## 历史期数
 
