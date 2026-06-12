@@ -4,10 +4,11 @@
 
 ## 最新一期
 
-**[2026-06-11](content/2026-06-11.md)** — headroom、apple/container、pm-skills、system-prompts、MasterDnsVPN、maigret、train-llm-from-scratch、claude-howto、hivemind、CloakBrowser
+**[2026-06-12](content/2026-06-12.md)** — agency-agents、SkillSpector、sia、agentsview、chatwoot、restic、hermes-agent、Open-LLM-VTuber、skills、openhuman
 
 ## 历史期数
 
+- [2026-06-11](content/2026-06-11.md)
 - [2026-06-10](content/2026-06-10.md)
 - [2026-06-09](content/2026-06-09.md)
 - [2026-06-08](content/2026-06-08.md)
