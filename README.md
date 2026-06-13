@@ -4,10 +4,11 @@
 
 ## 最新一期
 
-**[2026-06-12](content/2026-06-12.md)** — agency-agents、SkillSpector、sia、agentsview、chatwoot、restic、hermes-agent、Open-LLM-VTuber、skills、openhuman
+**[2026-06-13](content/2026-06-13.md)** — academic-research-skills、ai-engineering-from-scratch、agentmemory、last30days-skill、hermes-desktop、supertonic、ViMax、open-notebook、trivy、mattermost
 
 ## 历史期数
 
+- [2026-06-12](content/2026-06-12.md)
 - [2026-06-11](content/2026-06-11.md)
 - [2026-06-10](content/2026-06-10.md)
 - [2026-06-09](content/2026-06-09.md)
