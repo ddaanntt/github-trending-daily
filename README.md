@@ -4,7 +4,7 @@
 
 ## 最新一期
 
-**[2026-06-13](content/2026-06-13.md)** — academic-research-skills、ai-engineering-from-scratch、agentmemory、last30days-skill、hermes-desktop、supertonic、ViMax、open-notebook、trivy、mattermost
+**[2026-06-14](content/2026-06-14.md)** — MoneyPrinterTurbo、markitdown、Agent-Reach、tolaria、goose、CopilotKit、plugins、superpowers、cosmos、PowerToys
 
 ## 历史期数
 
