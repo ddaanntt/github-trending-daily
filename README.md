@@ -4,10 +4,11 @@
 
 ## 最新一期
 
-**[2026-06-14](content/2026-06-14.md)** — MoneyPrinterTurbo、markitdown、Agent-Reach、tolaria、goose、CopilotKit、plugins、superpowers、cosmos、PowerToys
+**[2026-06-15](content/2026-06-15.md)** — Understand-Anything、MoneyPrinterTurbo、openhuman、knowledge-work-plugins、oh-my-pi、taste-skill、stop-slop、iptv、plugins、SkillSpector
 
 ## 历史期数
 
+- [2026-06-14](content/2026-06-14.md)
 - [2026-06-12](content/2026-06-12.md)
 - [2026-06-11](content/2026-06-11.md)
 - [2026-06-10](content/2026-06-10.md)
