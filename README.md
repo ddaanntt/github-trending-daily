@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-06-15](content/2026-06-15.md)** — Understand-Anything、MoneyPrinterTurbo、openhuman、knowledge-work-plugins、oh-my-pi、taste-skill、stop-slop、iptv、plugins、SkillSpector
+**[2026-06-16](content/2026-06-16.md)** — freeCodeCamp、VoxCPM、iroh、meshery、teslamate、OpenWA
 
 ## 历史期数
+- [2026-06-15](content/2026-06-15.md)
 
 - [2026-06-14](content/2026-06-14.md)
 - [2026-06-12](content/2026-06-12.md)
