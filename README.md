@@ -4,7 +4,7 @@
 
 ## 最新一期
 
-**[2026-06-16](content/2026-06-16.md)** — freeCodeCamp、VoxCPM、iroh、meshery、teslamate、OpenWA
+**[2026-06-18](content/2026-06-18.md)** — codebase-memory-mcp、superpowers、timesfm、UI-TARS-desktop、continue、penpot、Rocket.Chat、nautilus_trader、OpenWA、OpenMontage
 
 ## 历史期数
 - [2026-06-15](content/2026-06-15.md)
