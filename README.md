@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-06-20](content/2026-06-20.md)** — palmier-pro、flue、insomnia、system_prompts_leaks、LTX-2、worldmonitor、agent-native、agentsview、LMCache、swc
+**[2026-06-21](content/2026-06-21.md)** — last30days-skill、ai-engineering-from-scratch、Pake、chatwoot、open-notebook、turso、plane、pytest、voicebox、twenty
 
 ## 历史期数
+- [2026-06-20](content/2026-06-20.md)
 - [2026-06-19](content/2026-06-19.md)
 - [2026-06-18](content/2026-06-18.md)
 - [2026-06-16](content/2026-06-16.md)
