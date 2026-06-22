@@ -4,7 +4,7 @@
 
 ## 最新一期
 
-**[2026-06-21](content/2026-06-21.md)** — last30days-skill、ai-engineering-from-scratch、Pake、chatwoot、open-notebook、turso、plane、pytest、voicebox、twenty
+**[2026-06-22](content/2026-06-22.md)** — daily_stock_analysis、deer-flow、cognee、spiderfoot、biliTickerBuy等10个项目
 
 ## 历史期数
 - [2026-06-20](content/2026-06-20.md)
