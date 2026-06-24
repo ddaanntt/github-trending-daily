@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-06-23](content/2026-06-23.md)** — GitHub Trending Daily
+**[2026-06-24](content/2026-06-24.md)** — gstack、hermes-agent、ECC、iroh、orca、ponytail、Unlimited-OCR、liteparse
 
 ## 历史期数
+- [2026-06-23](content/2026-06-23.md)
 - [2026-06-20](content/2026-06-20.md)
 - [2026-06-19](content/2026-06-19.md)
 - [2026-06-18](content/2026-06-18.md)
