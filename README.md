@@ -4,16 +4,16 @@
 
 ## 最新一期
 
-**[2026-06-24](content/2026-06-24.md)** — gstack、hermes-agent、ECC、iroh、orca、ponytail、Unlimited-OCR、liteparse
+**[2026-06-25](content/2026-06-25.md)** — design.md、hiring-agent、no-mistakes、flutter、presidio、Webwright、supermemory、openai-plugins
 
 ## 历史期数
+- [2026-06-24](content/2026-06-24.md)
 - [2026-06-23](content/2026-06-23.md)
 - [2026-06-20](content/2026-06-20.md)
 - [2026-06-19](content/2026-06-19.md)
 - [2026-06-18](content/2026-06-18.md)
 - [2026-06-16](content/2026-06-16.md)
 - [2026-06-15](content/2026-06-15.md)
-
 - [2026-06-14](content/2026-06-14.md)
 - [2026-06-12](content/2026-06-12.md)
 - [2026-06-11](content/2026-06-11.md)
