@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-06-25](content/2026-06-25.md)** — design.md、hiring-agent、no-mistakes、flutter、presidio、Webwright、supermemory、openai-plugins
+**[2026-06-27](content/2026-06-27.md)** — codegraph、apple/container、codebase-memory-mcp、herdr、penpot、worldmonitor、OpenMontage、agent-native、ai-berkshire、TREK
 
 ## 历史期数
+- [2026-06-25](content/2026-06-25.md)
 - [2026-06-24](content/2026-06-24.md)
 - [2026-06-23](content/2026-06-23.md)
 - [2026-06-20](content/2026-06-20.md)
