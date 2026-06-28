@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-06-27](content/2026-06-27.md)** — codegraph、apple/container、codebase-memory-mcp、herdr、penpot、worldmonitor、OpenMontage、agent-native、ai-berkshire、TREK
+**[2026-06-28](content/2026-06-28.md)** — simplex-chat、Eagle、page-agent、ppt-master、agent-toolkit-for-aws、CasaOS、MediaCrawler、opencode、openpilot、Open-Generative-AI
 
 ## 历史期数
+- [2026-06-27](content/2026-06-27.md)
 - [2026-06-25](content/2026-06-25.md)
 - [2026-06-24](content/2026-06-24.md)
 - [2026-06-23](content/2026-06-23.md)
