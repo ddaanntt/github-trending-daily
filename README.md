@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-01](content/2026-07-01.md)** — orca、OpenCut、agents-cli、OmniRoute、astryx、Instatic、supervision、zvec、AI-For-Beginners、agentsview
+**[2026-07-02](content/2026-07-02.md)** — dbx、iroh、DeepSpec、exploitarium、olmocr、cupp、AiToEarn、CubeSandbox、torlink、karukan
 
 ## 历史期数
+- [2026-07-01](content/2026-07-01.md)
 - [2026-06-30](content/2026-06-30.md)
 - [2026-06-28](content/2026-06-28.md)
 - [2026-06-27](content/2026-06-27.md)
