@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-02](content/2026-07-02.md)** — dbx、iroh、DeepSpec、exploitarium、olmocr、cupp、AiToEarn、CubeSandbox、torlink、karukan
+**[2026-07-04](content/2026-07-04.md)** — caveman、design.md、no-mistakes、hiring-agent、plugins、cs249r_book、codex-plugin-cc、agentskills、chrome-devtools-mcp、pytorch
 
 ## 历史期数
+- [2026-07-02](content/2026-07-02.md)
 - [2026-07-01](content/2026-07-01.md)
 - [2026-06-30](content/2026-06-30.md)
 - [2026-06-28](content/2026-06-28.md)
