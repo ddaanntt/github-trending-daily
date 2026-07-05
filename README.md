@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-04](content/2026-07-04.md)** — caveman、design.md、no-mistakes、hiring-agent、plugins、cs249r_book、codex-plugin-cc、agentskills、chrome-devtools-mcp、pytorch
+**[2026-07-05](content/2026-07-05.md)** — apple/container、codebase-memory-mcp、OpenMontage、ai-berkshire、meetily、herdr、romm、OpenSuperWhisper、immich、folia-major
 
 ## 历史期数
+- [2026-07-04](content/2026-07-04.md)
 - [2026-07-02](content/2026-07-02.md)
 - [2026-07-01](content/2026-07-01.md)
 - [2026-06-30](content/2026-06-30.md)
