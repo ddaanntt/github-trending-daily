@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-05](content/2026-07-05.md)** — apple/container、codebase-memory-mcp、OpenMontage、ai-berkshire、meetily、herdr、romm、OpenSuperWhisper、immich、folia-major
+**[2026-07-06](content/2026-07-06.md)** — alibaba/page-agent、unity-mcp、open-seo、RuView、claude-code、CodexBar、marketingskills、maven、planning-with-files、gastown
 
 ## 历史期数
+- [2026-07-05](content/2026-07-05.md)
 - [2026-07-04](content/2026-07-04.md)
 - [2026-07-02](content/2026-07-02.md)
 - [2026-07-01](content/2026-07-01.md)
