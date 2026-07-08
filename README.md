@@ -4,10 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-07](content/2026-07-07.md)** — Agent-Reach、SkillSpector、simplex-chat、strix、video-use、FluidVoice、lingbot-map、speech-to-speech、firecrawl、claude-video
+**[2026-07-08](content/2026-07-08.md)** — daily_stock_analysis、ai-job-search、OfficeCLI、pocket-tts、Website-downloader、T3MP3ST、openscience、claude-real-video、open-connector、linux-antiquity
 
 ## 历史期数
-- [2026-07-06](content/2026-07-06.md)
+- [2026-07-07](content/2026-07-07.md)
 - [2026-07-05](content/2026-07-05.md)
 - [2026-07-04](content/2026-07-04.md)
 - [2026-07-02](content/2026-07-02.md)
