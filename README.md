@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-08](content/2026-07-08.md)** — daily_stock_analysis、ai-job-search、OfficeCLI、pocket-tts、Website-downloader、T3MP3ST、openscience、claude-real-video、open-connector、linux-antiquity
+**[2026-07-09](content/2026-07-09.md)** — ai-website-cloner-template、astryx、OmniRoute、TREK、orca、PhotoGIMP、zvec、TencentDB-Agent-Memory、autoremesher、prisma
 
 ## 历史期数
+- [2026-07-08](content/2026-07-08.md)
 - [2026-07-07](content/2026-07-07.md)
 - [2026-07-05](content/2026-07-05.md)
 - [2026-07-04](content/2026-07-04.md)
