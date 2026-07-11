@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-10](content/2026-07-10.md)** — dbx、iroh、CubeSandbox、pentagi、U3-SDK、crawl4ai、claude-cookbooks、DesktopCommanderMCP、daisyui、X4G
+**[2026-07-11](content/2026-07-11.md)** — agent-skills、mattpocock/skills、awesome-design-md、system_prompts_leaks、superpowers、claude-code-templates、last30days-skill、stitch-skills、How-To-Secure-A-Linux-Server、meshoptimizer
 
 ## 历史期数
+- [2026-07-10](content/2026-07-10.md)
 - [2026-07-09](content/2026-07-09.md)
 - [2026-07-07](content/2026-07-07.md)
 - [2026-07-05](content/2026-07-05.md)
