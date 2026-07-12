@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-11](content/2026-07-11.md)** — agent-skills、mattpocock/skills、awesome-design-md、system_prompts_leaks、superpowers、claude-code-templates、last30days-skill、stitch-skills、How-To-Secure-A-Linux-Server、meshoptimizer
+**[2026-07-12](content/2026-07-12.md)** — colibri、pgrust、no-mistakes、hiring-agent、codex-plugin-cc、chrome-devtools-mcp、archify、dnsglobe、bun、jacobian-lens
 
 ## 历史期数
+- [2026-07-11](content/2026-07-11.md)
 - [2026-07-10](content/2026-07-10.md)
 - [2026-07-09](content/2026-07-09.md)
 - [2026-07-07](content/2026-07-07.md)
