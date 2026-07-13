@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-12](content/2026-07-12.md)** — colibri、pgrust、no-mistakes、hiring-agent、codex-plugin-cc、chrome-devtools-mcp、archify、dnsglobe、bun、jacobian-lens
+**[2026-07-13](content/2026-07-13.md)** — codebase-memory-mcp、cognee、meetily、herdr、impeccable、Vibe-Trading、Codex-X、destructive_command_guard、imgui、home-assistant
 
 ## 历史期数
+- [2026-07-12](content/2026-07-12.md)
 - [2026-07-11](content/2026-07-11.md)
 - [2026-07-10](content/2026-07-10.md)
 - [2026-07-09](content/2026-07-09.md)
