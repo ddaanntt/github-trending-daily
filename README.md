@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-13](content/2026-07-13.md)** — codebase-memory-mcp、cognee、meetily、herdr、impeccable、Vibe-Trading、Codex-X、destructive_command_guard、imgui、home-assistant
+**[2026-07-14](content/2026-07-14.md)** — Agent-Reach、Strix、claude-video、os-taxonomy、knockoff、Generals-Mac-iOS-iPad、mimic、clodex-ide、pocketjs、LuxyAI
 
 ## 历史期数
+- [2026-07-13](content/2026-07-13.md)
 - [2026-07-12](content/2026-07-12.md)
 - [2026-07-11](content/2026-07-11.md)
 - [2026-07-10](content/2026-07-10.md)
