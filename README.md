@@ -4,10 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-15](content/2026-07-15.md)** — OpenCut、page-agent、simplex-chat、OfficeCLI、knowledge-catalog、Win11Debloat、penpot、sharpemu、abseil-cpp、ai-hedge-fund
+**[2026-07-16](content/2026-07-16.md)** — OpenMontage、grok-build、riddle、maths-cs-ai-compendium、DeepTutor、waggle、Three.js-Object-Sculptor、Catch2、spdlog、OpenInterpreter
 
 ## 历史期数
-- [2026-07-14](content/2026-07-14.md)
+- [2026-07-15](content/2026-07-15.md)
 - [2026-07-13](content/2026-07-13.md)
 - [2026-07-12](content/2026-07-12.md)
 - [2026-07-11](content/2026-07-11.md)
