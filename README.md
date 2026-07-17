@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-16](content/2026-07-16.md)** — OpenMontage、grok-build、riddle、maths-cs-ai-compendium、DeepTutor、waggle、Three.js-Object-Sculptor、Catch2、spdlog、OpenInterpreter
+**[2026-07-17](content/2026-07-17.md)** — Orca、OmniRoute、JoltPhysics、asio、actions/checkout、Bonsai-demo、apache/ossie、PostHog、copilot-sdk、ossu/computer-science
 
 ## 历史期数
+- [2026-07-16](content/2026-07-16.md)
 - [2026-07-15](content/2026-07-15.md)
 - [2026-07-14](content/2026-07-14.md)
 - [2026-07-13](content/2026-07-13.md)
