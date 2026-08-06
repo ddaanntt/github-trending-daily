@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-07-17](content/2026-07-17.md)** — Orca、OmniRoute、JoltPhysics、asio、actions/checkout、Bonsai-demo、apache/ossie、PostHog、copilot-sdk、ossu/computer-science
+**[2026-08-06](content/2026-08-06.md)** — TencentDB-Agent-Memory、pdf-inspector、block/buzz、cloudflare/computer、DeepSeek-Reasonix、openwork、jcode、tailwindcss、ego-lite、uber/ADR
 
 ## 历史期数
+- [2026-07-17](content/2026-07-17.md)
 - [2026-07-16](content/2026-07-16.md)
 - [2026-07-15](content/2026-07-15.md)
 - [2026-07-14](content/2026-07-14.md)
