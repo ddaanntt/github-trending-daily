@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-08-06](content/2026-08-06.md)** — TencentDB-Agent-Memory、pdf-inspector、block/buzz、cloudflare/computer、DeepSeek-Reasonix、openwork、jcode、tailwindcss、ego-lite、uber/ADR
+**[2026-08-07](content/2026-08-07.md)** — loopx、Vibe-Trading、code-review-graph、bitchat、open-seo、speech-to-speech、antirez/ds4、authentik、t3code、tuicr
 
 ## 历史期数
+- [2026-08-06](content/2026-08-06.md)
 - [2026-07-17](content/2026-07-17.md)
 - [2026-07-16](content/2026-07-16.md)
 - [2026-07-15](content/2026-07-15.md)
