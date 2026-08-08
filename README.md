@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-08-07](content/2026-08-07.md)** — loopx、Vibe-Trading、code-review-graph、bitchat、open-seo、speech-to-speech、antirez/ds4、authentik、t3code、tuicr
+**[2026-08-08](content/2026-08-08.md)** — prime-agent、kimi-k3-in-c、qm、anydoc、celld、kaneo、witr、semantica、swarm-forge、grok2api
 
 ## 历史期数
+- [2026-08-07](content/2026-08-07.md)
 - [2026-08-06](content/2026-08-06.md)
 - [2026-07-17](content/2026-07-17.md)
 - [2026-07-16](content/2026-07-16.md)
