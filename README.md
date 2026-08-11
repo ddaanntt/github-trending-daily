@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-08-10](content/2026-08-10.md)** — decimen-optical-transfer、ComfyUI、livekit/agents、phone-harness、code-graph-rag、weathernext、drawdb、Multi-Agent-CAD、morphicons、harvey-labs
+**[2026-08-11](content/2026-08-11.md)** — LifeOS、kimi-code、MediaCrawler、paperclip、ladybird、gemma-translator、JoyAI-Video-Edit、asm-hall-of-shame、RealReplicaBench、TradingAgents
 
 ## 历史期数
+- [2026-08-10](content/2026-08-10.md)
 - [2026-08-09](content/2026-08-09.md)
 - [2026-08-08](content/2026-08-08.md)
 - [2026-08-07](content/2026-08-07.md)
