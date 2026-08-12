@@ -4,9 +4,10 @@
 
 ## 最新一期
 
-**[2026-08-11](content/2026-08-11.md)** — LifeOS、kimi-code、MediaCrawler、paperclip、ladybird、gemma-translator、JoyAI-Video-Edit、asm-hall-of-shame、RealReplicaBench、TradingAgents
+**[2026-08-12](content/2026-08-12.md)** — Kimi-K3、warp、qwen-audio-agent、talivia、h3.c、findphone、kage、rescript、human-review、arc-task-gen
 
 ## 历史期数
+- [2026-08-11](content/2026-08-11.md)
 - [2026-08-10](content/2026-08-10.md)
 - [2026-08-09](content/2026-08-09.md)
 - [2026-08-08](content/2026-08-08.md)
